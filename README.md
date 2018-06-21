@@ -9,3 +9,5 @@ It rocks!
 ### What is the big fuss about Git?
 
 You can commit every once in a while or you can bunch all of your changes together into one single commit. It is better because you don't pollute the repo with a lot of commits.
+
+Editing online.
