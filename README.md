@@ -12,6 +12,6 @@ You can commit every once in a while or you can bunch all of your changes togeth
 
 Editing online.
 
-Again.
+Again. And Again.
 
 Continuing in local.
