@@ -17,3 +17,5 @@ Again. And Again.
 Continuing in local.
 
 Something else.
+
+Read the Pro Git book online [here](https://git-scm.com/book/en/v2).
